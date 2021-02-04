@@ -6,5 +6,6 @@ namespace infoStrededyPattern.Strategy
 {
     class Caculations
     {
+
     }
 }
