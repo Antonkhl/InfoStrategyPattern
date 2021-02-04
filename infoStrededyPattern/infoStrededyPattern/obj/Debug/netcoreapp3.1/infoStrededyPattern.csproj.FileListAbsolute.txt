@@ -1,0 +1,4 @@
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\obj\Debug\netcoreapp3.1\infoStrededyPattern.csprojAssemblyReference.cache
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\obj\Debug\netcoreapp3.1\infoStrededyPattern.AssemblyInfoInputs.cache
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\obj\Debug\netcoreapp3.1\infoStrededyPattern.AssemblyInfo.cs
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\obj\Debug\netcoreapp3.1\infoStrededyPattern.csproj.CoreCompileInputs.cache

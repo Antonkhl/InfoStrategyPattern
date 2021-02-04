@@ -1,0 +1,13 @@
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\obj\Debug\netcoreapp3.0\infoStrededyPattern.csprojAssemblyReference.cache
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\obj\Debug\netcoreapp3.0\infoStrededyPattern.AssemblyInfoInputs.cache
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\obj\Debug\netcoreapp3.0\infoStrededyPattern.AssemblyInfo.cs
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\obj\Debug\netcoreapp3.0\infoStrededyPattern.csproj.CoreCompileInputs.cache
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\bin\Debug\netcoreapp3.0\infoStrededyPattern.exe
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\bin\Debug\netcoreapp3.0\infoStrededyPattern.deps.json
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\bin\Debug\netcoreapp3.0\infoStrededyPattern.runtimeconfig.json
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\bin\Debug\netcoreapp3.0\infoStrededyPattern.runtimeconfig.dev.json
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\bin\Debug\netcoreapp3.0\infoStrededyPattern.dll
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\bin\Debug\netcoreapp3.0\infoStrededyPattern.pdb
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\obj\Debug\netcoreapp3.0\infoStrededyPattern.dll
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\obj\Debug\netcoreapp3.0\infoStrededyPattern.pdb
+D:\School\Programering\InfoStrategyPattern\infoStrededyPattern\infoStrededyPattern\obj\Debug\netcoreapp3.0\infoStrededyPattern.genruntimeconfig.cache

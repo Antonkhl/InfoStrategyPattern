@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ESEhR/yHAVTGbkH6lRxX63vcHP780PFUIlH4Bzo6wlujnG9Tkgs3bmsPc7JZl7lG7yPxCgWNOOivROZeKjhfEw==",
+  "success": true,
+  "projectFilePath": "D:\\School\\Programering\\InfoStrategyPattern\\infoStrededyPattern\\infoStrededyPattern\\infoStrededyPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khlop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\khlop\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\khlop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\khlop\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
