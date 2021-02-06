@@ -10,7 +10,7 @@ namespace infoStrededyPattern.Strategy
         {
             public void HeightCaculations(double height)
             {
-                height = Convert.ToInt32(height) ^ Convert.ToInt32(height);
+                height = Math.Pow(height, 2);
               
             }
         }

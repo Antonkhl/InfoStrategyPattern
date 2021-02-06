@@ -8,7 +8,7 @@ namespace infoStrededyPattern.Strategy
     {
         public void formulaCaculation(int height, int weight)
         {
-            int BMI = weight / height;
+            double BMI = weight / height;
         }
     }
 }
