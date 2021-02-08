@@ -6,12 +6,14 @@ namespace infoStrededyPattern.Strategy
 {
    namespace infoStrededyPattern
     {
-       class FormulaHeight
+       class FormulaHeight : BMICaculationStrategy
         {
-            public void HeightCaculations(double height)
+            public void Calculation(double height)
             {
                 height = Math.Pow(height, 2);
-              
+
+                bmi = new Formula();
+            
             }
         }
     }

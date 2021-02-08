@@ -8,15 +8,16 @@ namespace infoStrededyPattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the BMI caculator! Start by disclosing your age");
-            int age = Convert.ToInt32(Console.ReadLine());
+            BMICaculationStrategy bmi;
 
-            Console.WriteLine("Whats your height? (m) (Type it out like 1.xx)");
+            Console.WriteLine("Welcome to the BMI caculator! Start by disclosing your height (meters) (Type it out like 1,xx)");
             double height = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Whats your Weight? (kg)");
             int weight = Convert.ToInt32(Console.ReadLine());
-     
+
+            bmi = new Strategy.infoStrededyPattern.FormulaHeight();
+
 
 
         }

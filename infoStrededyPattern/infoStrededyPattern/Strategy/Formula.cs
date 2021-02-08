@@ -4,11 +4,13 @@ using System.Text;
 
 namespace infoStrededyPattern.Strategy
 {
-    class Formula
+    class Formula : BMICaculationStrategy
     {
-        public void formulaCaculation(int height, int weight)
+        public void Calculation(int height, int weight)
         {
             double BMI = weight / height;
+
+            Console.WriteLine("Your BMI is " + BMI);
         }
     }
 }
